@@ -3,9 +3,13 @@
 <h3 align="center">Java AI Backend Engineer | Distributed Systems | Agentic AI</h3>
 
 <p align="center">
-  <a href="mailto:toahasiddique.ts@gmail.com">Email</a> •
-  <a href="https://github.com/toahas">GitHub</a> •
-  <a href="https://linkedin.com/in/toahas/">LinkedIn</a>
+  <a href="mailto:toahasiddique.ts@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/toahas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -25,7 +29,6 @@ I enjoy solving complex engineering problems, designing reliable systems, and tu
 ### Backend & Distributed Systems
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Reactive Spring](https://img.shields.io/badge/Reactive_Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-005571?style=for-the-badge)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 
