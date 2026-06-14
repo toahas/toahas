@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Toaha Siddique 👋</h1>
 
-<h3 align="center">Java AI Backend Engineer | U.S. Citizen | Distributed Systems | Agentic AI</h3>
+<h3 align="center">Software Engineer (Java AI Backend) | U.S. Citizen | Distributed Systems | Agentic AI</h3>
 
 <p align="center">
   <a href="mailto:toahasiddique.ts@gmail.com">
